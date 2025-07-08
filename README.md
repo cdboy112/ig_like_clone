@@ -1,5 +1,6 @@
 # IG Clone – SQL Schema & Query Examples 📱<br>
-
+Im using MySQL
+<br>
 This repository contains the SQL DDL for the Instagram-style social schema and useful query examples with sample data.<br>
 
 ---<br>
